@@ -32,6 +32,7 @@ const SpecialOffer = () => {
         <div className="mt-11 flex flex-wrap gap-4">
           <Button label="Shop now" iconURL={arrowRight} />
           <Button
+            iconURL={arrowRight}
             label="Learn more"
             backgroundColor="bg-white"
             borderColor="border-slate-gray"
